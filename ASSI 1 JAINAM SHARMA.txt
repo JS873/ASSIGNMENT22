@@ -1,0 +1,20 @@
+assignment 1
+
+que 1 : What is Software?
+ans 1:- Software is a set of computer programs and associated documentation and data.The majority of software is written in 
+            high-level programming languages. They are easier and more efficient for programmers because they are closer to natural languages 
+            than machine languages.High-level languages are translated into machine language using a compiler or an interpreter or a combination of the two.
+      
+
+que 2:-What are the types of Applications?
+ans 2:- there are multiple types of application for example web application contains software 
+            base application and another one is mobile applications which is generally designed for 
+            moderate usage
+
+que3 :-What is programing?
+ans 3:- programming is set of code and technique which execute code based on programming environment 
+             and in simple terms process of writing computer programs
+
+que4:-What is Python?
+ans 4:- Python is a high-level, general-purpose programming language.It supports multiple programming
+             paradigms, including structured, object-oriented and functional programming.
